@@ -15,12 +15,13 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://raw.githubusercontent.com/Mohamed-Waled/NFT-Preview-Card-Component/main/images/Screenshot%202022-03-02%20at%2010-28-01%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/NFT-Preview-Card-Component/main/images/Screen%20Shot%202022-03-02%20at%2010.29.08.png)
 
 ### Links
 
 - Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
