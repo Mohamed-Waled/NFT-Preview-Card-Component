@@ -20,7 +20,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-flex--YO_LfpSr)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/NFT-Preview-Card-Component/)
 
 ## My process
