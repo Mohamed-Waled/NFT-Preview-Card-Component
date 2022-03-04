@@ -73,8 +73,12 @@
 .card .text h1 a {
     text-decoration: none;
     background-color: transparent;
-    color: hsl(178, 100%, 50%);
+    color: white;
     font-size: 20px;
+}
+
+.card .text h1 a:hover {
+    color: hsl(178, 100%, 50%);
 }
 
 .card .text .our {
@@ -158,6 +162,10 @@
     text-decoration: none;
     background-color: transparent;
     color: hsl(0, 0%, 100%);
+}
+
+.card .owner p span a:hover {
+    color: hsl(178, 100%, 50%);
 }
 
 footer { 
